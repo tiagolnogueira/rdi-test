@@ -1,0 +1,13 @@
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.exe
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.deps.json
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.runtimeconfig.json
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.runtimeconfig.dev.json
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\bin\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.ConsoleApp\obj\Debug\netcoreapp3.1\RDI.Test.ConsoleApp.genruntimeconfig.cache

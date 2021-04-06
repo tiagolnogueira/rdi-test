@@ -1,0 +1,9 @@
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\bin\Debug\netcoreapp3.1\RDI.Test.Domain.deps.json
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\bin\Debug\netcoreapp3.1\RDI.Test.Domain.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\bin\Debug\netcoreapp3.1\RDI.Test.Domain.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Domain\obj\Debug\netcoreapp3.1\RDI.Test.Domain.pdb

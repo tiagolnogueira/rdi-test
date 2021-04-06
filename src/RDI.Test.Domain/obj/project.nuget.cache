@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/pEudPrNK7Gu8lz7PnrLLuWV23H3UNI8aI1KOvBldl27EQMVjFEVNWmxRmDTb61qVKUehAHZm3FgWDZTga6SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinogueira\\source\\repos\\RDI.Test\\src\\RDI.Test.Domain\\RDI.Test.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinogueira\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

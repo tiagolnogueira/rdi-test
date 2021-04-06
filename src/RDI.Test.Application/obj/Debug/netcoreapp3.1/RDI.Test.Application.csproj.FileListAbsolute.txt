@@ -1,0 +1,14 @@
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Application.deps.json
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Application.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Application.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Domain.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Infra.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Domain.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\bin\Debug\netcoreapp3.1\RDI.Test.Infra.pdb
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.csproj.CopyComplete
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.dll
+C:\Users\tinogueira\source\repos\RDI.Test\src\RDI.Test.Application\obj\Debug\netcoreapp3.1\RDI.Test.Application.pdb
